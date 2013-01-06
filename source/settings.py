@@ -25,9 +25,10 @@ MENUITEMS = (
 )
 
 
-AUTHOR = 'Your Name'
-SITENAME = 'yourdomain.com'
-SITEURL = 'http://www.yourdomain.com'
+AUTHOR = 'David'
+SITENAME = 'dada-blog'
+SITEURL = 'http://davidovitch.github.com/dada-blog'
+GITHUB_URL = 'https://github.com/davidovitch'
 
 WITH_PAGINATION = True
 DEFAULT_PAGINATION = 10
