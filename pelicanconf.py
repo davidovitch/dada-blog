@@ -27,6 +27,8 @@ SITENAME = u'dada-blog'
 SITEURL = u'http://davidovitch.github.com/dada-blog'
 GITHUB_URL = u'https://github.com/davidovitch'
 FEED_DOMAIN = SITEURL
+FEED_ATOM = 'feeds/all.atom.xml'
+FEED_RSS = 'feeds/all.rss.xml'
 FEED_MAX_ITEMS = 20
 
 WITH_PAGINATION = True
@@ -58,6 +60,7 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 # I like to have ``Archives`` in the main menu.
 MENUITEMS = (
     ('Archives', '{0}/archives.html'.format(SITEURL)),
+    ('About', '{0}/about.html'.format(SITEURL)),
     )
 
 
