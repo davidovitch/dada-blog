@@ -2,7 +2,13 @@
 
 # This can also be the absolute path to a theme that you downloaded
 # i.e. './themes/anothertheme/'
-THEME = 'notmyidea'
+#THEME = 'notmyidea'
+THEME = "../pelican-themes/tuxlite_tbs"
+#THEME = "../pelican-themes/Just-Read"
+#THEME = "../pelican-themes/bootlex"
+#THEME = "../pelican-themes/syte"
+#THEME = "../pelican-themes/dev-random"  # gives error
+#THEME = "../pelican-themes/dev-random2" # gives error
 
 # The folder ``images`` should be copied into the folder ``static`` when
 # generating the output.
@@ -36,7 +42,6 @@ DISQUS_SITENAME = 'dada-blog'
 # extensions chapter in the Python-Markdown documentation for a complete list
 # of supported extensions.
 MD_EXTENSIONS = (['codehilite','extra'])
-
 
 # List of templates that are used directly to render content. Typically direct
 # templates are used to generate index pages for collections of content
