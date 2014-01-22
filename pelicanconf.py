@@ -10,22 +10,25 @@ THEME = "../pelican-themes/tuxlite_tbs"
 #THEME = "../pelican-themes/dev-random"  # gives error
 #THEME = "../pelican-themes/dev-random2" # gives error
 
+# can be useful in development, but set to False when you're ready to publish
+RELATIVE_URLS = False
+
 # The folder ``images`` should be copied into the folder ``static`` when
 # generating the output.
 STATIC_PATHS = ['images', ]
 
 # See http://pelican.notmyidea.org/en/latest/settings.html#timezone
 TIMEZONE = 'Europe/Paris'
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 # I like to put everything into the category ``Blog``, which also appears on
 # the main menu. Tags will not appear on the menu.
 DEFAULT_CATEGORY = 'Blog'
 
-AUTHOR = u'David Verelst'
-SITENAME = u'dada-blog'
-SITEURL = u'http://davidovitch.github.com/dada-blog'
-GITHUB_URL = u'https://github.com/davidovitch'
+AUTHOR = 'David Verelst'
+SITENAME = 'dada-blog'
+SITEURL = 'http://davidovitch.github.com/dada-blog'
+GITHUB_URL = 'https://github.com/davidovitch'
 FEED_DOMAIN = SITEURL
 #FEED_ATOM = 'feeds/all.atom.xml'
 FEED_RSS = 'feeds/all.rss.xml'
