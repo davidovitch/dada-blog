@@ -19,7 +19,7 @@ zero impact on the grand scheme of things I believe it matters. It is only
 fair and decent that we know who wrote something for what reason. All in
 the name of transparency.
 
-So here goes, some dry facts about me, myself and I:
+So here goes:
 
 * born and raised in the region of Antwerp, Belgium (that's in Europe)
 
@@ -28,9 +28,10 @@ So here goes, some dry facts about me, myself and I:
 kindergarten until the end of high school (3-18 years)
 
 * professionally active in wind energy research: studied [aerospace
-engineering](http://www.lr.tudelft.nl/en/) at the TU Delft, and doing a PhD
-at [DTU Wind Energy](http://www.vindenergi.dtu.dk/English.aspx) in Denmark
-and that should be finished early-mid 2013
+engineering](http://www.lr.tudelft.nl/en/) at the TU Delft, did a PhD
+at [DTU Wind Energy](http://www.vindenergi.dtu.dk/English.aspx) in Denmark,
+and decided to continue working there as a
+[post-doc](http://www.dtu.dk/Service/Telefonbog/Person?id=59332).
 
 * during my studies it became clear to me that sustainability (being green,
 respect nature and human society, etc) is not only of paramount importance,
