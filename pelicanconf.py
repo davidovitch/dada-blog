@@ -27,7 +27,7 @@ SITENAME = u'dada-blog'
 SITEURL = u'http://davidovitch.github.com/dada-blog'
 GITHUB_URL = u'https://github.com/davidovitch'
 FEED_DOMAIN = SITEURL
-FEED_ATOM = 'feeds/all.atom.xml'
+#FEED_ATOM = 'feeds/all.atom.xml'
 FEED_RSS = 'feeds/all.rss.xml'
 FEED_MAX_ITEMS = 20
 
@@ -50,12 +50,17 @@ MD_EXTENSIONS = (['codehilite','extra'])
 # (e.g. tags and category index pages).
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives'))
 
-SOCIAL = (('Github', 'https://github.com/davidovitch'),)
+SOCIAL = (('Github',    'https://github.com/davidovitch'),
+          ('Bitbucket', 'https://bitbucket.org/davidovitch'),
+          ('Gittip',    'https://www.gittip.com/davidovitch/'), )
 
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),)
+          ('Numfocus', 'http://numfocus.org/'),
+          ('SciPy', 'http://www.scipy.org/'),
+          ('Spyder', 'http://code.google.com/p/spyderlib/'),
+          ('Gittip', 'https://www.gittip.com') )
 
 # I like to have ``Archives`` in the main menu.
 MENUITEMS = (
