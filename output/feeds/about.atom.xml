@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dada-blog</title><link href="http://davidovitch.github.com/dada-blog/" rel="alternate"></link><link href="http://davidovitch.github.com/dada-blog/feeds/about.atom.xml" rel="self"></link><id>http://davidovitch.github.com/dada-blog/</id><updated>2012-01-08T21:00:00+01:00</updated><entry><title>About</title><link href="http://davidovitch.github.com/dada-blog/about.html" rel="alternate"></link><updated>2012-01-08T21:00:00+01:00</updated><author><name>David Verelst</name></author><id>tag:davidovitch.github.com/dada-blog,2012-01-08:about.html</id><summary type="html">&lt;p&gt;Why do blogs have pages about their authors? Why do I feel it is necessary
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dada-blog</title><link href="/" rel="alternate"></link><link href="http://davidovitch.github.com/dada-blog/feeds/about.atom.xml" rel="self"></link><id>/</id><updated>2012-01-08T21:00:00+01:00</updated><entry><title>About</title><link href="/about.html" rel="alternate"></link><updated>2012-01-08T21:00:00+01:00</updated><author><name>David Verelst</name></author><id>tag:,2012-01-08:about.html</id><summary type="html">&lt;p&gt;Why do blogs have pages about their authors? Why do I feel it is necessary
 to write something about myself here? The way I see it there are at least
 a couple of reasons for doing so. However, I will only elaborate upon a
 single one: the reason to put the blog into perspective. The title could
@@ -11,7 +11,7 @@ double agenda. Even though this blog, like many others, will have close to
 zero impact on the grand scheme of things I believe it matters. It is only
 fair and decent that we know who wrote something for what reason. All in
 the name of transparency.&lt;/p&gt;
-&lt;p&gt;So here goes, some dry facts about me, myself and I:&lt;/p&gt;
+&lt;p&gt;So here goes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;born and raised in the region of Antwerp, Belgium (that's in Europe)&lt;/p&gt;
@@ -23,9 +23,10 @@ kindergarten until the end of high school (3-18 years)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;professionally active in wind energy research: studied &lt;a href="http://www.lr.tudelft.nl/en/"&gt;aerospace
-engineering&lt;/a&gt; at the TU Delft, and doing a PhD
-at &lt;a href="http://www.vindenergi.dtu.dk/English.aspx"&gt;DTU Wind Energy&lt;/a&gt; in Denmark
-and that should be finished early-mid 2013&lt;/p&gt;
+engineering&lt;/a&gt; at the TU Delft, did a PhD
+at &lt;a href="http://www.vindenergi.dtu.dk/English.aspx"&gt;DTU Wind Energy&lt;/a&gt; in Denmark,
+and decided to continue working there as a
+&lt;a href="http://www.dtu.dk/Service/Telefonbog/Person?id=59332"&gt;post-doc&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;during my studies it became clear to me that sustainability (being green,

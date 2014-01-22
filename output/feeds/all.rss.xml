@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>dada-blog</title><link>http://davidovitch.github.com/dada-blog/</link><description></description><atom:link href="http://davidovitch.github.com/dada-blog/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 08 Jan 2012 21:00:00 +0100</lastBuildDate><item><title>About</title><link>http://davidovitch.github.com/dada-blog/about.html</link><description>&lt;p&gt;Why do blogs have pages about their authors? Why do I feel it is necessary
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dada-blog</title><link>/</link><description></description><atom:link href="http://davidovitch.github.com/dada-blog/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 08 Jan 2012 21:00:00 +0100</lastBuildDate><item><title>About</title><link>/about.html</link><description>&lt;p&gt;Why do blogs have pages about their authors? Why do I feel it is necessary
 to write something about myself here? The way I see it there are at least
 a couple of reasons for doing so. However, I will only elaborate upon a
 single one: the reason to put the blog into perspective. The title could
@@ -11,7 +11,7 @@ double agenda. Even though this blog, like many others, will have close to
 zero impact on the grand scheme of things I believe it matters. It is only
 fair and decent that we know who wrote something for what reason. All in
 the name of transparency.&lt;/p&gt;
-&lt;p&gt;So here goes, some dry facts about me, myself and I:&lt;/p&gt;
+&lt;p&gt;So here goes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;born and raised in the region of Antwerp, Belgium (that's in Europe)&lt;/p&gt;
@@ -23,9 +23,10 @@ kindergarten until the end of high school (3-18 years)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;professionally active in wind energy research: studied &lt;a href="http://www.lr.tudelft.nl/en/"&gt;aerospace
-engineering&lt;/a&gt; at the TU Delft, and doing a PhD
-at &lt;a href="http://www.vindenergi.dtu.dk/English.aspx"&gt;DTU Wind Energy&lt;/a&gt; in Denmark
-and that should be finished early-mid 2013&lt;/p&gt;
+engineering&lt;/a&gt; at the TU Delft, did a PhD
+at &lt;a href="http://www.vindenergi.dtu.dk/English.aspx"&gt;DTU Wind Energy&lt;/a&gt; in Denmark,
+and decided to continue working there as a
+&lt;a href="http://www.dtu.dk/Service/Telefonbog/Person?id=59332"&gt;post-doc&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;during my studies it became clear to me that sustainability (being green,
@@ -50,4 +51,4 @@ pet peeves&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;So any ramblings you will find here can be expected to be of a greenish
 inspired kitchen, are often marinated with open source dogma's, and are
-usually cooked on the left spectrum of the stove.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Verelst</dc:creator><pubDate>Sun, 08 Jan 2012 21:00:00 +0100</pubDate><guid>tag:davidovitch.github.com/dada-blog,2012-01-08:about.html</guid><category>about</category></item><item><title>Initiate Blog</title><link>http://davidovitch.github.com/dada-blog/initiate-blog.html</link><description>&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Verelst</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0100</pubDate><guid>tag:davidovitch.github.com/dada-blog,2010-12-03:initiate-blog.html</guid><category>thats</category><category>awesome</category></item></channel></rss>
+usually cooked on the left spectrum of the stove.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Verelst</dc:creator><pubDate>Sun, 08 Jan 2012 21:00:00 +0100</pubDate><guid>tag:,2012-01-08:about.html</guid><category>about</category></item><item><title>Initiate Blog</title><link>/initiate-blog.html</link><description>&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Verelst</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0100</pubDate><guid>tag:,2010-12-03:initiate-blog.html</guid><category>thats</category><category>awesome</category></item></channel></rss>
