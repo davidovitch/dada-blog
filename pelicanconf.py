@@ -3,7 +3,7 @@
 # This can also be the absolute path to a theme that you downloaded
 # i.e. './themes/anothertheme/'
 #THEME = 'notmyidea'
-THEME = "../pelican-themes/tuxlite_tbs"
+THEME = "../../pelican-themes/tuxlite_tbs"
 #THEME = "../pelican-themes/Just-Read"
 #THEME = "../pelican-themes/bootlex"
 #THEME = "../pelican-themes/syte"
