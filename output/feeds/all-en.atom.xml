@@ -1,9 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dada-blog</title><link href="http://davidovitch.github.com/dada-blog/" rel="alternate"></link><link href="http://davidovitch.github.com/dada-blog/feeds/all-en.atom.xml" rel="self"></link><id>http://davidovitch.github.com/dada-blog/</id><updated>2014-03-16T18:00:00+01:00</updated><entry><title>Socio-economic-environmental-political science</title><link href="http://davidovitch.github.com/dada-blog/more-socio-economic-environmental-political-science.html" rel="alternate"></link><updated>2014-03-16T18:00:00+01:00</updated><author><name>David Verelst</name></author><id>tag:davidovitch.github.com,2014-03-16:dada-blog/more-socio-economic-environmental-political-science.html</id><summary type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dada-blog</title><link href="http://davidovitch.github.com/dada-blog/" rel="alternate"></link><link href="http://davidovitch.github.com/dada-blog/feeds/all-en.atom.xml" rel="self"></link><id>http://davidovitch.github.com/dada-blog/</id><updated>2014-06-01T18:00:00+02:00</updated><entry><title>Socio-economic-environmental-political science</title><link href="http://davidovitch.github.com/dada-blog/open-tools-for-participative-democracy.html" rel="alternate"></link><updated>2014-06-01T18:00:00+02:00</updated><author><name>David Verelst</name></author><id>tag:davidovitch.github.com,2014-06-01:dada-blog/open-tools-for-participative-democracy.html</id><summary type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;There are ample problems in modern society, and I believe a partly broken
+democratic process is one of them. The traditional top down decision making 
+process is under pressure since it seems to favour well organized and wealthy 
+groups who do not necessarily have any democratic backing. Some would argue that
+influential
+&lt;a href="http://corporateeurope.org/blog/lobby-power-surfaces-eu-election-campaign-theme"&gt;lobby&lt;/a&gt; 
+groups in Brussels close to the European Commission are a good example of this.
+When discussing politics and power in general at all times we should remember
+that:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Power tends to corrupt, and absolute power corrupts absolutely. 
+Great men are almost always bad men. 
+~ Sir John Dalberg-Acton, 8th Bt
+(&lt;a href="https://en.wikipedia.org/wiki/Power_corrupts"&gt;Wikipedia&lt;/a&gt;,
+&lt;a href="http://www.phrases.org.uk/meanings/absolute-power-corrupts-absolutely.html"&gt;phrases.org&lt;/a&gt;
+)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From a practical perspective it seems surely more manageable to discuss top
+level politics with a limited set of partners that represent industries, 
+institutes, unions, people and alike. But then the internet happened which
+could help scale the problem of democratic participation to a much larger group
+of people. There are two steps in this process. The first would be to present
+all working documents, opinions and consultations used in the decision making
+process to the public (democratic transparency). Second step is to let the 
+public actively engage with this process (in its extreme form this is a
+&lt;a href="https://en.wikipedia.org/wiki/Direct_democracy"&gt;direct democracy&lt;/a&gt; or
+&lt;a href="https://en.wikipedia.org/wiki/E-democracy"&gt;e-democracy&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;This post will briefly cover some projects that are working on building
+open source software tools to increase the number of people involved in the
+democratic decision making process.&lt;/p&gt;
+&lt;h2&gt;On-line collaborative decision making&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;People unwilling to govern themselves will be ruled by those deemed unfit to govern.
+~ Plato, The Republic&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;With &lt;a href="http://davidjarvis.ca/world-politics/"&gt;world politics&lt;/a&gt;,
+David Jarvis outlines with a simple example how such a collaborative decision
+making tool could look like. This open source concept is hosted on 
+&lt;a href="https://bitbucket.org/djarvis/world-politics"&gt;Bitbucket&lt;/a&gt; and a worth while 
+&lt;a href="https://bitbucket.org/djarvis/world-politics/wiki/Related%20Links"&gt;list of references&lt;/a&gt;
+of similar systems is maintained as well.&lt;/p&gt;
+&lt;p&gt;Some of the existing platforms in production use today present a very simple
+interface for facilitating an on-line discussion around a proposal. For example,
+with &lt;a href="https://demo.yrpri.org/"&gt;Your Priorities&lt;/a&gt; (developed on 
+&lt;a href="https://github.com/rbjarnason/your-priorities"&gt;Github&lt;/a&gt;), you can cast votes
+in favour and against, list pro's and con's, and engage in further discussion 
+via a simple linear commenting thread. This approach seems suitable for simple
+discussions and proposals involving a limited numnber of people, but I would argue
+it will not scale properly to larger and more complex discussions. &lt;/p&gt;
+&lt;p&gt;Another example is &lt;a href="https://www.loomio.org/"&gt;Loomio&lt;/a&gt;. Although it is relatively
+similar to Your Priorities, the interface, using nice looking graphs among others,
+is more polished and thought through in my opinion.
+You can see the tool in action on some live open projects 
+&lt;a href="https://www.loomio.org/explore"&gt;here&lt;/a&gt;. An interesting feature that clearly
+distinguishes Loomio from others is that you can cast 4 different kind of votes:
+either in favour, abstain, against or veto.&lt;/p&gt;
+&lt;p&gt;What I also find interesting about Loomio is how they are organized:
+(and I quote from their web page):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Loomio is built by a worker-owned cooperative. We’re a social enterprise
+working to maximise positive social impact, not proﬁt &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After raising close to US$125,000 in a crowd-funding campaign, the open 
+source development (taking place on &lt;a href="https://github.com/loomio/loomio"&gt;Github&lt;/a&gt;) 
+is assured to continue for some time to come. &lt;/p&gt;
+&lt;p&gt;As a final example I would like to mention &lt;a href="https://adhocracy.de/"&gt;Adhocracy&lt;/a&gt;,
+yet another tool for democratic participation, developed by the German non-profit
+&lt;a href="https://liqd.net/en/"&gt;LiquidDemocracy&lt;/a&gt; (code is on
+&lt;a href="https://github.com/liqd/adhocracy/"&gt;Github&lt;/a&gt;). Although it doesn't look as slick 
+as Loomio in my opinion, this framework has been under continuous development
+over the last years and there is no sign of reduced
+&lt;a href="https://github.com/liqd/adhocracy/graphs/contributors"&gt;activity&lt;/a&gt; either. 
+Feature wise, the adhocracy platform is ahead of others by offering nested
+discussion threads, more complex proposal description page including milestone
+time line, map and member pages. &lt;/p&gt;
+&lt;h2&gt;Challenges&lt;/h2&gt;
+&lt;p&gt;This post very briefly looked at some open source tools that can be used for
+on-line collaborative decision making. The reason why no propriety packages
+are discussed here is because I think they are irrelevant in the context of 
+transparency in governance: you can not thrust a black box system
+with the powers of crucial political decision making. However, developing and
+maintaining such a system reliably exceeds the capabilities of group of loosely
+connected volunteers. Some sort of framework and funding has to be present.
+In &lt;a href="http://spartakan.wordpress.com/2008/05/05/floss-projects-ande-pariticipation/"&gt;Does an opensource approach help e-democracy?&lt;/a&gt; 
+this topic is explored in more detail.&lt;/p&gt;
+&lt;p&gt;It is clear that a direct democracy with e-participation is not ready for today.
+However, people are thinking about the problem and are making small steps
+towards streamlined on-line decision making processes. Since there is a lot
+to learn before getting there, every step counts!&lt;/p&gt;
+&lt;p&gt;When looking at projects such as Loomio and adhocracy, I believe that people
+are moving towards more inclusive and participatory decision making processes.
+Whether that is in small community teams, traditional companies or within
+large national groups, it is a matter of time before they will become the norm.&lt;/p&gt;</summary><category term="politics"></category></entry><entry><title>Socio-economic-environmental-political science</title><link href="http://davidovitch.github.com/dada-blog/more-socio-economic-environmental-political-science.html" rel="alternate"></link><updated>2014-03-16T18:00:00+01:00</updated><author><name>David Verelst</name></author><id>tag:davidovitch.github.com,2014-03-16:dada-blog/more-socio-economic-environmental-political-science.html</id><summary type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;A naive and far from complete argument is presented here to suggest that political
 decisions should be backed by more elaborate, open, and transparent studies
 that guide policy makers today. This specific art form is defined here as
-socio-economic-environmental-political science.&lt;/p&gt;
+socio-economic-environmental-political science. At the end of the post the
+respective Belgian context is briefly illustrated as an example.&lt;/p&gt;
 &lt;h2&gt;What is socio-economic-environmental-political science?&lt;/h2&gt;
 &lt;p&gt;I am sure this definition is used literally in other places as well, but let's
 define it clearly for this post:&lt;/p&gt;
@@ -156,4 +250,7 @@ pet peeves&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;So any ramblings you will find here can be expected to be of a greenish
 inspired kitchen, are often marinated with open source dogma's, and are
-usually cooked on the left spectrum of the stove.&lt;/p&gt;</summary><category term="about"></category></entry></feed>
+usually cooked on the left spectrum of the stove.&lt;/p&gt;
+&lt;p&gt;Finally, please not that anything published in this blog solely represent my
+personal opinion. They are not necessary endorsed by my current employer or any
+other entity mentioned by name. &lt;/p&gt;</summary><category term="about"></category></entry></feed>
