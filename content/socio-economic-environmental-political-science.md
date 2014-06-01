@@ -13,7 +13,8 @@ Introduction
 A naive and far from complete argument is presented here to suggest that political
 decisions should be backed by more elaborate, open, and transparent studies
 that guide policy makers today. This specific art form is defined here as
-socio-economic-environmental-political science.
+socio-economic-environmental-political science. At the end of the post the
+respective Belgian context is briefly illustrated as an example.
 
 
 What is socio-economic-environmental-political science?
