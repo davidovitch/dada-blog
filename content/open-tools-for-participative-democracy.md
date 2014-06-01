@@ -1,4 +1,4 @@
-Title: Socio-economic-environmental-political science
+Title: Open tools for transparent participative and democratic decision making
 Date: 2014-06-01 18:00
 Tags: politics
 Category: blog
