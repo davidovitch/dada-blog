@@ -52,3 +52,7 @@ So any ramblings you will find here can be expected to be of a greenish
 inspired kitchen, are often marinated with open source dogma's, and are
 usually cooked on the left spectrum of the stove.
 
+Finally, please not that anything published in this blog solely represent my
+personal opinion. They are not necessary endorsed by my current employer or any
+other entity mentioned by name. 
+
