@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dada-blog</title><link>/</link><description></description><atom:link href="http://davidovitch.github.com/dada-blog/feeds/david-verelst.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 01 Jun 2014 18:00:00 +0200</lastBuildDate><item><title>Open tools for transparent participative and democratic decision making</title><link>/open-tools-for-participative-democracy.html</link><description>&lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;There are ample problems in modern society, and I believe a partly broken
-democratic process is one of them. The traditional top down decision making 
+&lt;p&gt;There are ample problems in modern society, and I believe the democratic
+process is an important pillar that needs additional love. The traditional top down decision making 
 process is under pressure since it seems to favour well organized and wealthy 
 groups who do not necessarily have any democratic backing. Some would argue that
 influential
 &lt;a href="http://corporateeurope.org/blog/lobby-power-surfaces-eu-election-campaign-theme"&gt;lobby&lt;/a&gt; 
 groups in Brussels close to the European Commission are a good example of this.
-When discussing politics and power in general at all times we should remember
+When discussing politics and power in general we should at all times remember
 that:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Power tends to corrupt, and absolute power corrupts absolutely. 
@@ -79,9 +79,9 @@ time line, map and member pages. &lt;/p&gt;
 &lt;p&gt;This post very briefly looked at some open source tools that can be used for
 on-line collaborative decision making. The reason why no propriety packages
 are discussed here is because I think they are irrelevant in the context of 
-transparency in governance: you can not thrust a black box system
+transparency in governance: you can not trust a black box system
 with the powers of crucial political decision making. However, developing and
-maintaining such a system reliably exceeds the capabilities of group of loosely
+maintaining such a system reliably exceeds the capabilities of a group of loosely
 connected volunteers. Some sort of framework and funding has to be present.
 In &lt;a href="http://spartakan.wordpress.com/2008/05/05/floss-projects-ande-pariticipation/"&gt;Does an opensource approach help e-democracy?&lt;/a&gt; 
 this topic is explored in more detail.&lt;/p&gt;
