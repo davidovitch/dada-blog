@@ -11,7 +11,7 @@ THEME = "../../pelican-themes/tuxlite_tbs"
 #THEME = "../pelican-themes/dev-random2" # gives error
 
 # can be useful in development, but set to False when you're ready to publish
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 # The folder ``images`` should be copied into the folder ``static`` when
 # generating the output.
