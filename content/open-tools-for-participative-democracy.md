@@ -64,7 +64,7 @@ with [Your Priorities](https://demo.yrpri.org/) (developed on
 [Github](https://github.com/rbjarnason/your-priorities)), you can cast votes
 in favour and against, list pro's and con's, and engage in further discussion 
 via a simple linear commenting thread. This approach seems suitable for simple
-discussions and proposals involving a limited numnber of people, but I would argue
+discussions and proposals involving a limited number of people, but I would argue
 it will not scale properly to larger and more complex discussions. 
 
 Another example is [Loomio](https://www.loomio.org/). Although it is relatively
